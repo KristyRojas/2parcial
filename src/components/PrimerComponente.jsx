@@ -24,5 +24,5 @@ const PrimerComponente = () => {
   );
 };
 
-export default UserDetails;
+export default PrimerComponente;
 
